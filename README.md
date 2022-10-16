@@ -35,3 +35,7 @@ How to run RYLO ?
         "streamlit run app.py"
         
 5. click the url displayed in the terminal
+
+Demo: 
+     
+     Lifestyle-demo
