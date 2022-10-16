@@ -38,4 +38,4 @@ How to run RYLO ?
 
 Demo: 
      
-     Lifestyle-demo
+     https://drive.google.com/file/d/1M6rWpxZa0vMMsf_l5RbrYbT6ptl8yVp7/view?usp=sharing
